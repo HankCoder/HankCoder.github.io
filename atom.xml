@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://HankCoder.github.io/"/>
-  <updated>2017-01-17T16:32:23.000Z</updated>
+  <updated>2017-01-18T14:00:11.000Z</updated>
   <id>http://HankCoder.github.io/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>随手记20170119</title>
+    <link href="http://HankCoder.github.io/2017/01/18/%E9%9A%8F%E6%89%8B%E8%AE%B020170119/"/>
+    <id>http://HankCoder.github.io/2017/01/18/随手记20170119/</id>
+    <published>2017-01-18T13:39:04.000Z</published>
+    <updated>2017-01-18T14:00:11.000Z</updated>
+    
+    <content type="html">&lt;p&gt;今天早上起床的时候就有种预感，感觉昨天提交的代码可能会出问题，&lt;br&gt;因为修改的地方实在是太多了，并且这几天有没有状态，修改一点代码都要&lt;br&gt;回头确认好几遍，生怕有地方改出了问题，不过有时候越是担心，就越容易出问题。&lt;br&gt;果不其然今天上午去工厂打包的时候就发现问题了，问题很严重。于是花2个小时&lt;br&gt;去解决这个问题，不料在提交代码的时候又发现了一个新问题，不过这个问题影响&lt;br&gt;不大，直接修改提交了，中午该吃饭了，却还要打包测试，看测试包会不会有问题，&lt;br&gt;一中午的时间也就过去了，午饭也没有去吃。早饭加午饭一共吃了5个华夫饼。。。&lt;/p&gt;
+&lt;p&gt;昨天看完月河就已经是感慨万千，晚上也是没有睡着，一整晚都在做梦，不过我很&lt;br&gt;确认梦中有你，这种状态一直持续到早上5点多，这之后就睡着了。早上起来我有&lt;br&gt;好多话想对你说，可是我又不敢。因为现在和你聊天就会影响我一天的心情，搞的我&lt;br&gt;可能一天都集中不了精神，这种感觉真的很难受。不过不用担心我们很快就能见面了，&lt;br&gt;我每天都在数手指，算日期，真的到那天了我一定要找你聊个够，说说我的心声，如果&lt;br&gt;到不了，那我也会一天一天慢慢的写下来，到时候给你看。今晚部门聚餐了，吃的有点多，&lt;br&gt;不过我没有喝酒，我现在能不喝酒就不喝了。还记得那次我喝醉酒了干的傻事吗？我现在&lt;br&gt;回想起来真的好想笑。现在你不在我身边，我就尽量不喝酒了。我喝醉的样子可能也只有&lt;br&gt;你能接受了，其他人可能都很嫌弃我。哈哈。晚上回来准备去锻炼身体，走到楼下时发现&lt;br&gt;没有带工牌，于是跑回6楼去拿，刚刚打开房门的时候就感觉不行了，吃太多了，实在是&lt;br&gt;跑不动了，有点反胃，就决定不去跑步了。不过看书还是不能丢，那我就继续看三毛的&lt;br&gt;散文了。。。。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天早上起床的时候就有种预感，感觉昨天提交的代码可能会出问题，&lt;br&gt;因为修改的地方实在是太多了，并且这几天有没有状态，修改一点代码都要&lt;br&gt;回头确认好几遍，生怕有地方改出了问题，不过有时候越是担心，就越容易出问题。&lt;br&gt;果不其然今天上午去工厂打包的时候就发现问题了，问
+    
+    </summary>
+    
+      <category term="我和她的故事" scheme="http://HankCoder.github.io/categories/%E6%88%91%E5%92%8C%E5%A5%B9%E7%9A%84%E6%95%85%E4%BA%8B/"/>
+    
+    
+      <category term="日记" scheme="http://HankCoder.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="情感" scheme="http://HankCoder.github.io/tags/%E6%83%85%E6%84%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>随手记20170118</title>
